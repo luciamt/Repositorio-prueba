@@ -1,0 +1,15 @@
+html,
+body {
+    height: 100%;
+}
+body {
+    padding: 0%;
+    margin: 0%;
+    font-family: "Open Sans", sans-serif;
+    color:cadetblue
+}
+
+.foto{
+    width: 200;
+    high: 200;
+}
